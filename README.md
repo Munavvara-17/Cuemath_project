@@ -35,11 +35,12 @@ An AI-powered web application that analyzes sentiment and sarcasm from voice inp
 
 ## Project Structure
 
+```
 ├── app.py
 ├── model/
 ├── utils/
 ├── requirements.txt
-
+```
 
 ---
 
