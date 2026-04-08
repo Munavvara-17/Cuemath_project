@@ -1,30 +1,30 @@
-# 🎤 Voice-Driven Sentiment & Sarcasm Detection
+# Voice-Driven Sentiment & Sarcasm Detection
 
 An AI-powered web application that analyzes sentiment and sarcasm from voice input using speech recognition and NLP techniques.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 👉 [Add your deployed Streamlit link here]
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 👉 [Add your Loom video link here]
 
 ---
 
-## 🧠 Features
+## Features
 
-- 🎤 Upload voice/audio input
-- 📝 Converts speech to text
-- 😊 Detects sentiment (Positive / Negative / Neutral)
-- 😏 Detects sarcasm
-- ⚡ Simple and interactive UI
+- Upload voice/audio input
+- Converts speech to text
+- Detects sentiment (Positive / Negative / Neutral)
+- Detects sarcasm
+- Simple and interactive UI
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Streamlit
@@ -33,7 +33,7 @@ An AI-powered web application that analyzes sentiment and sarcasm from voice inp
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ├── app.py
 ├── model/
@@ -43,13 +43,13 @@ An AI-powered web application that analyzes sentiment and sarcasm from voice inp
 
 ---
 
-## 💡 Why I Built This
+## Why I Built This
 
 I built this project to explore how voice-based input can be used for sentiment analysis and sarcasm detection in real-world applications like customer feedback systems and conversational AI.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - BERT-based model integration
 - Real-time microphone input
@@ -57,7 +57,3 @@ I built this project to explore how voice-based input can be used for sentiment 
 - Better sarcasm detection
 
 ---
-
-## 👨‍💻 Author
-
-Munavvara Nayab
