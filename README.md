@@ -5,7 +5,7 @@ An AI-powered web application that analyzes sentiment and sarcasm from voice inp
 ---
 
 ## Live Demo
-👉 [Add your deployed Streamlit link here]
+👉 [(https://cuemathproject-j3vcfgjogcuabl46bueb28.streamlit.app/)]
 
 ---
 
